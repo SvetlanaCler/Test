@@ -1,3 +1,4 @@
+
 1)Создать папку – pwd -> cd .. -> mkdir July2021
 2) Зайти в папку -  cd July2021
 3)Создать 3 папки -  mkdir {Jun,Jul,Aug}
