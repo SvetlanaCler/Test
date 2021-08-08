@@ -1,0 +1,18 @@
+Title
+
+Summary
+Project Name
+Version
+Priority
+Reporter
+Assigned to
+
+Environment
+
+Description
+
+Steps to Reproduce
+Actual Result
+Expected Result
+
+Attachment
